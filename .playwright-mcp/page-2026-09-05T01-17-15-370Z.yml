@@ -1,0 +1,555 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - link "NEXUS.TECH Next-Gen Store" [ref=f2e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f2e9]:
+          - generic [ref=f2e10]: NEXUS.TECH
+          - generic [ref=f2e11]: Next-Gen Store
+      - button "Search products" [ref=f2e13] [cursor=pointer]
+      - generic [ref=f2e17]:
+        - link "View Wishlist" [ref=f2e18] [cursor=pointer]:
+          - /url: /wishlist
+        - button "Open Cart" [ref=f2e21] [cursor=pointer]
+        - button "Toggle Navigation Menu" [ref=f2e25] [cursor=pointer]
+  - main [ref=f2e27]:
+    - generic [ref=f2e29]:
+      - generic [ref=f2e30]: "⚡ Mega Launch Special: Free Express Worldwide Shipping on Orders Over $50"
+      - generic [ref=f2e34]:
+        - generic [ref=f2e35]: "CODE: NEXUS2026"
+        - link "Shop Deals" [ref=f2e36] [cursor=pointer]:
+          - /url: /shop
+    - region "Flagship Tech Showcase" [ref=f2e39]:
+      - generic [ref=f2e41]:
+        - generic [ref=f2e967]:
+          - generic [ref=f2e968]:
+            - generic [ref=f2e971]: QUANTUM ERA
+            - generic [ref=f2e973]: SMARTPHONES
+          - heading "Quantum Speed. Limitless Power." [level=1] [ref=f2e974]
+          - paragraph [ref=f2e975]: 6.8" Quantum OLED 144Hz screen, Neural X1 5nm Processor, and 200MP Quad-Lens Optics.
+          - generic [ref=f2e976]:
+            - generic [ref=f2e977]: ⚡ 200MP Camera
+            - generic [ref=f2e978]: ⚡ 144Hz OLED
+            - generic [ref=f2e979]: ⚡ 1TB Storage
+          - link "Explore CyberPhone" [ref=f2e981] [cursor=pointer]:
+            - /url: /shop
+        - generic [ref=f2e61]: Loading 3D product...
+    - generic [ref=f2e66]:
+      - generic [ref=f2e67]:
+        - generic [ref=f2e68]:
+          - generic [ref=f2e69]: Curated Electronics
+          - heading "Featured Flagship Products" [level=2] [ref=f2e70]
+        - generic [ref=f2e71]:
+          - button "All Products" [ref=f2e72] [cursor=pointer]
+          - button "Best Sellers" [ref=f2e73] [cursor=pointer]
+          - button "New Arrivals" [ref=f2e74] [cursor=pointer]
+          - button "Special Deals" [ref=f2e75] [cursor=pointer]
+      - generic [ref=f2e76]:
+        - article [ref=f2e77]:
+          - link "Amazon Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+ — Television & Video BEST SELLER" [ref=f2e78] [cursor=pointer]:
+            - /url: /product/amazon-fire-tv-stick-hd-newest-model-free-live-tv-alexa-voic
+            - img "Amazon Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+ — Television & Video" [ref=f2e79]
+            - generic [ref=f2e80]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e81] [cursor=pointer]
+          - generic [ref=f2e84]:
+            - generic [ref=f2e85]: Amazon • Television & Video
+            - heading [level=3] [ref=f2e86]:
+              - link "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+" [ref=f2e87] [cursor=pointer]:
+                - /url: /product/amazon-fire-tv-stick-hd-newest-model-free-live-tv-alexa-voic
+            - generic [ref=f2e88]:
+              - generic [ref=f2e100]: "4.0"
+              - generic [ref=f2e101]: (4404)
+            - generic [ref=f2e102]:
+              - generic [ref=f2e103]: $17.99
+              - generic [ref=f2e104]: $39.99
+        - article [ref=f2e105]:
+          - link "Amazon Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+ — Television & Video BEST SELLER" [ref=f2e106] [cursor=pointer]:
+            - /url: /product/amazon-fire-tv-stick-4k-select-newest-model-start-streaming
+            - img "Amazon Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+ — Television & Video" [ref=f2e107]
+            - generic [ref=f2e108]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e109] [cursor=pointer]
+          - generic [ref=f2e112]:
+            - generic [ref=f2e113]: Amazon • Television & Video
+            - heading [level=3] [ref=f2e114]:
+              - link "Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+" [ref=f2e115] [cursor=pointer]:
+                - /url: /product/amazon-fire-tv-stick-4k-select-newest-model-start-streaming
+            - generic [ref=f2e116]:
+              - generic [ref=f2e128]: "4.1"
+              - generic [ref=f2e129]: (15328)
+            - generic [ref=f2e130]:
+              - generic [ref=f2e131]: $19.99
+              - generic [ref=f2e132]: $49.99
+        - article [ref=f2e133]:
+          - link "Apple Apple EarPods Headphones with USB-C Plug, Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume — Headphones BEST SELLER" [ref=f2e134] [cursor=pointer]:
+            - /url: /product/apple-earpods-headphones-with-usb-c-plug-wired-ear-buds-with
+            - img "Apple Apple EarPods Headphones with USB-C Plug, Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume — Headphones" [ref=f2e135]
+            - generic [ref=f2e136]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e137] [cursor=pointer]
+          - generic [ref=f2e140]:
+            - generic [ref=f2e141]: Apple • Headphones
+            - heading [level=3] [ref=f2e142]:
+              - link "Apple EarPods Headphones with USB-C Plug, Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume" [ref=f2e143] [cursor=pointer]:
+                - /url: /product/apple-earpods-headphones-with-usb-c-plug-wired-ear-buds-with
+            - generic [ref=f2e144]:
+              - generic [ref=f2e156]: "4.5"
+              - generic [ref=f2e157]: (17325)
+            - generic [ref=f2e158]: $19.00
+        - article [ref=f2e160]:
+          - link "Apple Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation — Headphones BEST SELLER" [ref=f2e161] [cursor=pointer]:
+            - /url: /product/apple-airpods-pro-3-wireless-earbuds-with-active-noise-cance
+            - img "Apple Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation — Headphones" [ref=f2e162]
+            - generic [ref=f2e163]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e164] [cursor=pointer]
+          - generic [ref=f2e167]:
+            - generic [ref=f2e168]: Apple • Headphones
+            - heading [level=3] [ref=f2e169]:
+              - link "Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation" [ref=f2e170] [cursor=pointer]:
+                - /url: /product/apple-airpods-pro-3-wireless-earbuds-with-active-noise-cance
+            - generic [ref=f2e171]:
+              - generic [ref=f2e183]: "4.4"
+              - generic [ref=f2e184]: (14530)
+            - generic [ref=f2e185]:
+              - generic [ref=f2e186]: $199.99
+              - generic [ref=f2e187]: $249.00
+        - article [ref=f2e188]:
+          - 'link "Apple Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue — Camera & Photo BEST SELLER" [ref=f2e189] [cursor=pointer]':
+            - /url: /product/apple-ipad-11-inch-a16-chip-11-inch-model-liquid-retina-disp
+            - 'img "Apple Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue — Camera & Photo" [ref=f2e190]'
+            - generic [ref=f2e191]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e192] [cursor=pointer]
+          - generic [ref=f2e195]:
+            - generic [ref=f2e196]: Apple • Camera & Photo
+            - heading [level=3] [ref=f2e197]:
+              - 'link "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue" [ref=f2e198] [cursor=pointer]':
+                - /url: /product/apple-ipad-11-inch-a16-chip-11-inch-model-liquid-retina-disp
+            - generic [ref=f2e199]:
+              - generic [ref=f2e211]: "4.7"
+              - generic [ref=f2e212]: (28073)
+            - generic [ref=f2e213]:
+              - generic [ref=f2e214]: $399.99
+              - generic [ref=f2e215]: $449.00
+        - article [ref=f2e216]:
+          - 'link "Apple Apple AirTag (2nd Generation): Tracker for Keychain, Wallet, and More; Locator with Sound; Simple One-Tap Setup with iPhone or iPad; Key Finder with up to 1.5X Precision Finding Range — Cell Phones & Accessories BEST SELLER" [ref=f2e217] [cursor=pointer]':
+            - /url: /product/apple-airtag-2nd-generation-tracker-for-keychain-wallet-and
+            - 'img "Apple Apple AirTag (2nd Generation): Tracker for Keychain, Wallet, and More; Locator with Sound; Simple One-Tap Setup with iPhone or iPad; Key Finder with up to 1.5X Precision Finding Range — Cell Phones & Accessories" [ref=f2e218]'
+            - generic [ref=f2e219]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e220] [cursor=pointer]
+          - generic [ref=f2e223]:
+            - generic [ref=f2e224]: Apple • Cell Phones & Accessories
+            - heading [level=3] [ref=f2e225]:
+              - 'link "Apple AirTag (2nd Generation): Tracker for Keychain, Wallet, and More; Locator with Sound; Simple One-Tap Setup with iPhone or iPad; Key Finder with up to 1.5X Precision Finding Range" [ref=f2e226] [cursor=pointer]':
+                - /url: /product/apple-airtag-2nd-generation-tracker-for-keychain-wallet-and
+            - generic [ref=f2e227]:
+              - generic [ref=f2e239]: "4.5"
+              - generic [ref=f2e240]: (9664)
+            - generic [ref=f2e241]:
+              - generic [ref=f2e242]: $24.00
+              - generic [ref=f2e243]: $29.00
+        - article [ref=f2e244]:
+          - link "CHCORE Surge Protector Power Strip - CHCORE 5Ft Braided Extension Cord with 8 Outlets with 4 USB (2 USB C) Charging Ports, Flat Plug Multi Plug Outlet Extender Charging Station for Home Office, ETL, White — Office Electronics BEST SELLER" [ref=f2e245] [cursor=pointer]:
+            - /url: /product/surge-protector-power-strip-chcore-5ft-braided-extension-cor
+            - img "CHCORE Surge Protector Power Strip - CHCORE 5Ft Braided Extension Cord with 8 Outlets with 4 USB (2 USB C) Charging Ports, Flat Plug Multi Plug Outlet Extender Charging Station for Home Office, ETL, White — Office Electronics" [ref=f2e246]
+            - generic [ref=f2e247]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e248] [cursor=pointer]
+          - generic [ref=f2e251]:
+            - generic [ref=f2e252]: CHCORE • Office Electronics
+            - heading [level=3] [ref=f2e253]:
+              - link "Surge Protector Power Strip - CHCORE 5Ft Braided Extension Cord with 8 Outlets with 4 USB (2 USB C) Charging Ports, Flat Plug Multi Plug Outlet Extender Charging Station for Home Office, ETL, White" [ref=f2e254] [cursor=pointer]:
+                - /url: /product/surge-protector-power-strip-chcore-5ft-braided-extension-cor
+            - generic [ref=f2e255]:
+              - generic [ref=f2e267]: "4.6"
+              - generic [ref=f2e268]: (8397)
+            - generic [ref=f2e269]:
+              - generic [ref=f2e270]: $9.34
+              - generic [ref=f2e271]: $11.99
+        - article [ref=f2e272]:
+          - link "Apple Apple AirPods 4 Wireless Earbuds — Headphones BEST SELLER" [ref=f2e273] [cursor=pointer]:
+            - /url: /product/apple-airpods-4-wireless-earbuds
+            - img "Apple Apple AirPods 4 Wireless Earbuds — Headphones" [ref=f2e274]
+            - generic [ref=f2e275]: BEST SELLER
+          - button "Add to wishlist" [ref=f2e276] [cursor=pointer]
+          - generic [ref=f2e279]:
+            - generic [ref=f2e280]: Apple • Headphones
+            - heading [level=3] [ref=f2e281]:
+              - link "Apple AirPods 4 Wireless Earbuds" [ref=f2e282] [cursor=pointer]:
+                - /url: /product/apple-airpods-4-wireless-earbuds
+            - generic [ref=f2e283]:
+              - generic [ref=f2e295]: "4.5"
+              - generic [ref=f2e296]: (34162)
+            - generic [ref=f2e297]:
+              - generic [ref=f2e298]: $99.00
+              - generic [ref=f2e299]: $129.00
+      - link "Explore All 49+ Flagship Products" [ref=f2e301] [cursor=pointer]:
+        - /url: /shop
+    - generic [ref=f2e306]:
+      - img "Lenovo tablet with pen" [ref=f2e308]
+      - generic [ref=f2e309]:
+        - img "Lenovo tablet — side view" [ref=f2e310]
+        - img "Lenovo tablet — keyboard view" [ref=f2e311]
+        - img "Lenovo tablet — back view" [ref=f2e312]
+        - img "Lenovo tablet — pen view" [ref=f2e313]
+    - generic [ref=f2e317]:
+      - generic [ref=f2e318]:
+        - generic [ref=f2e319]:
+          - heading "Browse by Category" [level=2] [ref=f2e320]
+          - paragraph [ref=f2e321]: Explore Amazon Electronics best sellers by department category
+        - link "View All Categories →" [ref=f2e322] [cursor=pointer]:
+          - /url: /shop
+      - generic [ref=f2e323]:
+        - link "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal Featured Electronics Best Seller Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal Home Audio • 198,872 reviews View" [ref=f2e324] [cursor=pointer]:
+          - /url: /product/amazon-echo-dot-newest-model-vibrant-sounding-speaker-design
+          - img "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal" [ref=f2e325]
+          - generic [ref=f2e327]:
+            - generic [ref=f2e328]: Featured Electronics Best Seller
+            - heading "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal" [level=3] [ref=f2e329]
+            - generic [ref=f2e330]:
+              - generic [ref=f2e331]: Home Audio • 198,872 reviews
+              - generic [ref=f2e332]: View
+        - generic [ref=f2e338]:
+          - generic [ref=f2e339]:
+            - link "Accessories & Supplies Accessories & Supplies 9 Products" [ref=f2e340] [cursor=pointer]:
+              - /url: /shop?category=Accessories%20%26%20Supplies
+              - img "Accessories & Supplies" [ref=f2e341]
+              - generic [ref=f2e344]:
+                - heading "Accessories & Supplies" [level=3] [ref=f2e345]
+                - generic [ref=f2e346]: 9 Products
+            - link "Camera & Photo Camera & Photo 2 Products" [ref=f2e351] [cursor=pointer]:
+              - /url: /shop?category=Camera%20%26%20Photo
+              - img "Camera & Photo" [ref=f2e352]
+              - generic [ref=f2e355]:
+                - heading "Camera & Photo" [level=3] [ref=f2e356]
+                - generic [ref=f2e357]: 2 Products
+            - link "Car & Vehicle Electronics Car & Vehicle Electronics 0 Products" [ref=f2e362] [cursor=pointer]:
+              - /url: /shop?category=Car%20%26%20Vehicle%20Electronics
+              - img "Car & Vehicle Electronics" [ref=f2e363]
+              - generic [ref=f2e366]:
+                - heading "Car & Vehicle Electronics" [level=3] [ref=f2e367]
+                - generic [ref=f2e368]: 0 Products
+            - link "Cell Phones & Accessories Cell Phones & Accessories 1 Products" [ref=f2e373] [cursor=pointer]:
+              - /url: /shop?category=Cell%20Phones%20%26%20Accessories
+              - img "Cell Phones & Accessories" [ref=f2e374]
+              - generic [ref=f2e377]:
+                - heading "Cell Phones & Accessories" [level=3] [ref=f2e378]
+                - generic [ref=f2e379]: 1 Products
+            - link "Computers & Accessories Computers & Accessories 3 Products" [ref=f2e384] [cursor=pointer]:
+              - /url: /shop?category=Computers%20%26%20Accessories
+              - img "Computers & Accessories" [ref=f2e385]
+              - generic [ref=f2e388]:
+                - heading "Computers & Accessories" [level=3] [ref=f2e389]
+                - generic [ref=f2e390]: 3 Products
+            - link "GPS & Navigation GPS & Navigation 1 Products" [ref=f2e395] [cursor=pointer]:
+              - /url: /shop?category=GPS%20%26%20Navigation
+              - img "GPS & Navigation" [ref=f2e396]
+              - generic [ref=f2e399]:
+                - heading "GPS & Navigation" [level=3] [ref=f2e400]
+                - generic [ref=f2e401]: 1 Products
+            - link "Headphones Headphones 13 Products" [ref=f2e406] [cursor=pointer]:
+              - /url: /shop?category=Headphones
+              - img "Headphones" [ref=f2e407]
+              - generic [ref=f2e410]:
+                - heading "Headphones" [level=3] [ref=f2e411]
+                - generic [ref=f2e412]: 13 Products
+            - link "Home Audio Home Audio 4 Products" [ref=f2e417] [cursor=pointer]:
+              - /url: /shop?category=Home%20Audio
+              - img "Home Audio" [ref=f2e418]
+              - generic [ref=f2e421]:
+                - heading "Home Audio" [level=3] [ref=f2e422]
+                - generic [ref=f2e423]: 4 Products
+            - link "Office Electronics Office Electronics 2 Products" [ref=f2e428] [cursor=pointer]:
+              - /url: /shop?category=Office%20Electronics
+              - img "Office Electronics" [ref=f2e429]
+              - generic [ref=f2e432]:
+                - heading "Office Electronics" [level=3] [ref=f2e433]
+                - generic [ref=f2e434]: 2 Products
+            - link "Portable Audio & Video Portable Audio & Video 0 Products" [ref=f2e439] [cursor=pointer]:
+              - /url: /shop?category=Portable%20Audio%20%26%20Video
+              - img "Portable Audio & Video" [ref=f2e440]
+              - generic [ref=f2e443]:
+                - heading "Portable Audio & Video" [level=3] [ref=f2e444]
+                - generic [ref=f2e445]: 0 Products
+            - link "Security & Surveillance Security & Surveillance 1 Products" [ref=f2e450] [cursor=pointer]:
+              - /url: /shop?category=Security%20%26%20Surveillance
+              - img "Security & Surveillance" [ref=f2e451]
+              - generic [ref=f2e454]:
+                - heading "Security & Surveillance" [level=3] [ref=f2e455]
+                - generic [ref=f2e456]: 1 Products
+            - link "Service Plans Service Plans 0 Products" [ref=f2e461] [cursor=pointer]:
+              - /url: /shop?category=Service%20Plans
+              - img "Service Plans" [ref=f2e462]
+              - generic [ref=f2e465]:
+                - heading "Service Plans" [level=3] [ref=f2e466]
+                - generic [ref=f2e467]: 0 Products
+            - link "Television & Video Television & Video 12 Products" [ref=f2e472] [cursor=pointer]:
+              - /url: /shop?category=Television%20%26%20Video
+              - img "Television & Video" [ref=f2e473]
+              - generic [ref=f2e476]:
+                - heading "Television & Video" [level=3] [ref=f2e477]
+                - generic [ref=f2e478]: 12 Products
+            - link "Video Game Consoles & Accessories Video Game Consoles & Accessories 0 Products" [ref=f2e483] [cursor=pointer]:
+              - /url: /shop?category=Video%20Game%20Consoles%20%26%20Accessories
+              - img "Video Game Consoles & Accessories" [ref=f2e484]
+              - generic [ref=f2e487]:
+                - heading "Video Game Consoles & Accessories" [level=3] [ref=f2e488]
+                - generic [ref=f2e489]: 0 Products
+            - link "Wearable Technology Wearable Technology 0 Products" [ref=f2e494] [cursor=pointer]:
+              - /url: /shop?category=Wearable%20Technology
+              - img "Wearable Technology" [ref=f2e495]
+              - generic [ref=f2e498]:
+                - heading "Wearable Technology" [level=3] [ref=f2e499]
+                - generic [ref=f2e500]: 0 Products
+            - link "eBook Readers & Accessories eBook Readers & Accessories 1 Products" [ref=f2e505] [cursor=pointer]:
+              - /url: /shop?category=eBook%20Readers%20%26%20Accessories
+              - img "eBook Readers & Accessories" [ref=f2e506]
+              - generic [ref=f2e509]:
+                - heading "eBook Readers & Accessories" [level=3] [ref=f2e510]
+                - generic [ref=f2e511]: 1 Products
+          - generic [aria-hidden] [ref=f2e516]:
+            - link [ref=f2e517] [cursor=pointer]:
+              - /url: /shop?category=Accessories%20%26%20Supplies
+              - generic [ref=f2e521]:
+                - heading [level=3] [ref=f2e522]: Accessories & Supplies
+                - generic [ref=f2e523]: 9 Products
+            - link [ref=f2e528] [cursor=pointer]:
+              - /url: /shop?category=Camera%20%26%20Photo
+              - generic [ref=f2e532]:
+                - heading [level=3] [ref=f2e533]: Camera & Photo
+                - generic [ref=f2e534]: 2 Products
+            - link [ref=f2e539] [cursor=pointer]:
+              - /url: /shop?category=Car%20%26%20Vehicle%20Electronics
+              - generic [ref=f2e543]:
+                - heading [level=3] [ref=f2e544]: Car & Vehicle Electronics
+                - generic [ref=f2e545]: 0 Products
+            - link [ref=f2e550] [cursor=pointer]:
+              - /url: /shop?category=Cell%20Phones%20%26%20Accessories
+              - generic [ref=f2e554]:
+                - heading [level=3] [ref=f2e555]: Cell Phones & Accessories
+                - generic [ref=f2e556]: 1 Products
+            - link [ref=f2e561] [cursor=pointer]:
+              - /url: /shop?category=Computers%20%26%20Accessories
+              - generic [ref=f2e565]:
+                - heading [level=3] [ref=f2e566]: Computers & Accessories
+                - generic [ref=f2e567]: 3 Products
+            - link [ref=f2e572] [cursor=pointer]:
+              - /url: /shop?category=GPS%20%26%20Navigation
+              - generic [ref=f2e576]:
+                - heading [level=3] [ref=f2e577]: GPS & Navigation
+                - generic [ref=f2e578]: 1 Products
+            - link [ref=f2e583] [cursor=pointer]:
+              - /url: /shop?category=Headphones
+              - generic [ref=f2e587]:
+                - heading [level=3] [ref=f2e588]: Headphones
+                - generic [ref=f2e589]: 13 Products
+            - link [ref=f2e594] [cursor=pointer]:
+              - /url: /shop?category=Home%20Audio
+              - generic [ref=f2e598]:
+                - heading [level=3] [ref=f2e599]: Home Audio
+                - generic [ref=f2e600]: 4 Products
+            - link [ref=f2e605] [cursor=pointer]:
+              - /url: /shop?category=Office%20Electronics
+              - generic [ref=f2e609]:
+                - heading [level=3] [ref=f2e610]: Office Electronics
+                - generic [ref=f2e611]: 2 Products
+            - link [ref=f2e616] [cursor=pointer]:
+              - /url: /shop?category=Portable%20Audio%20%26%20Video
+              - generic [ref=f2e620]:
+                - heading [level=3] [ref=f2e621]: Portable Audio & Video
+                - generic [ref=f2e622]: 0 Products
+            - link [ref=f2e627] [cursor=pointer]:
+              - /url: /shop?category=Security%20%26%20Surveillance
+              - generic [ref=f2e631]:
+                - heading [level=3] [ref=f2e632]: Security & Surveillance
+                - generic [ref=f2e633]: 1 Products
+            - link [ref=f2e638] [cursor=pointer]:
+              - /url: /shop?category=Service%20Plans
+              - generic [ref=f2e642]:
+                - heading [level=3] [ref=f2e643]: Service Plans
+                - generic [ref=f2e644]: 0 Products
+            - link [ref=f2e649] [cursor=pointer]:
+              - /url: /shop?category=Television%20%26%20Video
+              - generic [ref=f2e653]:
+                - heading [level=3] [ref=f2e654]: Television & Video
+                - generic [ref=f2e655]: 12 Products
+            - link [ref=f2e660] [cursor=pointer]:
+              - /url: /shop?category=Video%20Game%20Consoles%20%26%20Accessories
+              - generic [ref=f2e664]:
+                - heading [level=3] [ref=f2e665]: Video Game Consoles & Accessories
+                - generic [ref=f2e666]: 0 Products
+            - link [ref=f2e671] [cursor=pointer]:
+              - /url: /shop?category=Wearable%20Technology
+              - generic [ref=f2e675]:
+                - heading [level=3] [ref=f2e676]: Wearable Technology
+                - generic [ref=f2e677]: 0 Products
+            - link [ref=f2e682] [cursor=pointer]:
+              - /url: /shop?category=eBook%20Readers%20%26%20Accessories
+              - generic [ref=f2e686]:
+                - heading [level=3] [ref=f2e687]: eBook Readers & Accessories
+                - generic [ref=f2e688]: 1 Products
+    - generic [ref=f2e696]:
+      - generic [ref=f2e697]:
+        - generic [ref=f2e698]: LIMITED TIME DEAL OF THE DAY
+        - heading "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+" [level=2] [ref=f2e702]
+        - generic [ref=f2e703]:
+          - generic [ref=f2e715]: "4.0"
+          - generic [ref=f2e716]: (4404)
+        - paragraph [ref=f2e717]: Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+
+        - generic [ref=f2e718]:
+          - generic [ref=f2e719]: $17.99
+          - generic [ref=f2e720]: $39.99
+          - generic [ref=f2e721]: SAVE 55%
+        - generic [ref=f2e722]:
+          - generic [ref=f2e723]: "Offer Expires In:"
+          - generic [ref=f2e728]:
+            - generic [ref=f2e729]:
+              - generic [ref=f2e730]: "14"
+              - generic [ref=f2e731]: Hours
+            - generic [ref=f2e732]: ":"
+            - generic [ref=f2e733]:
+              - generic [ref=f2e734]: "41"
+              - generic [ref=f2e735]: Mins
+            - generic [ref=f2e736]: ":"
+            - generic [ref=f2e737]:
+              - generic [ref=f2e738]: "58"
+              - generic [ref=f2e739]: Secs
+            - generic [ref=f2e740]: ":"
+            - generic [ref=f2e741]:
+              - generic [ref=f2e742]: "99"
+              - generic [ref=f2e743]: MS
+        - generic [ref=f2e745]:
+          - generic [ref=f2e746]: "Available Stock:"
+          - generic [ref=f2e747]: Only 10 left!
+        - generic [ref=f2e750]:
+          - link "Claim Deal on Amazon on Amazon (opens in new tab)" [ref=f2e751] [cursor=pointer]:
+            - /url: https://www.amazon.com/dp/B0DJGDC3BD?tag=nexustech-20
+            - generic [ref=f2e755]: Claim Deal on Amazon
+          - link "View Details" [ref=f2e760] [cursor=pointer]:
+            - /url: /product/amazon-fire-tv-stick-hd-newest-model-free-live-tv-alexa-voic
+      - img "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+" [ref=f2e763]
+    - generic [ref=f2e766]:
+      - generic [ref=f2e772]:
+        - heading "2-Year Hardware Warranty" [level=4] [ref=f2e773]
+        - paragraph [ref=f2e774]: Full comprehensive cyber protection coverage
+      - generic [ref=f2e782]:
+        - heading "Global Express Delivery" [level=4] [ref=f2e783]
+        - paragraph [ref=f2e784]: Insured courier tracking on all tech shipments
+      - generic [ref=f2e792]:
+        - heading "30-Day Risk-Free Returns" [level=4] [ref=f2e793]
+        - paragraph [ref=f2e794]: Zero hassle returns & instant store refunds
+      - generic [ref=f2e800]:
+        - heading "100% Genuine Guaranteed" [level=4] [ref=f2e801]
+        - paragraph [ref=f2e802]: Direct authentic factory sealed products
+    - generic [ref=f2e804]:
+      - generic [ref=f2e805]:
+        - text: COMMUNITY REVIEWS
+        - heading "Trusted by Creators & Power Users" [level=2] [ref=f2e806]
+      - generic [ref=f2e807]:
+        - generic [ref=f2e811]:
+          - img "Alex V." [ref=f2e813]
+          - generic [ref=f2e814]:
+            - generic [ref=f2e815]: "5.0"
+            - paragraph [ref=f2e828]: “The spatial audio calibration on the Pro Sound X is mind-blowing. Soundstage is so wide and precise that I use them for master audio monitoring.”
+            - generic [ref=f2e829]:
+              - generic [ref=f2e830]:
+                - generic [ref=f2e831]: Alex V.
+                - generic [ref=f2e832]: Verified Buyer
+              - generic [ref=f2e836]: Audio Engineer & Creator • Nexus Pro Sound X Headphones
+        - generic [ref=f2e837]:
+          - generic [ref=f2e838]: 01 / 03
+          - generic [ref=f2e839]:
+            - button "Previous testimonial" [ref=f2e840] [cursor=pointer]
+            - button "Next testimonial" [ref=f2e843] [cursor=pointer]
+    - generic [ref=f2e848]:
+      - heading "Join the Quantum Tech Circle" [level=2] [ref=f2e853]
+      - paragraph [ref=f2e854]:
+        - text: Subscribe for exclusive early-access flagship drops, engineering deep dives, and an instant
+        - strong [ref=f2e855]: $20 welcome voucher
+        - text: .
+      - generic [ref=f2e856]:
+        - generic [ref=f2e857]:
+          - textbox "Enter your email address..." [ref=f2e859]
+          - button "Get $20 Off" [ref=f2e863] [cursor=pointer]
+        - paragraph [ref=f2e864]: We respect your inbox privacy. Unsubscribe anytime.
+  - contentinfo [ref=f2e867]:
+    - generic [ref=f2e868]:
+      - generic [ref=f2e876]:
+        - generic [ref=f2e877]: Global Express Delivery
+        - generic [ref=f2e878]: Free shipping on orders over $50
+      - generic [ref=f2e884]:
+        - generic [ref=f2e885]: 2-Year Cyber Warranty
+        - generic [ref=f2e886]: 100% genuine guaranteed original
+      - generic [ref=f2e892]:
+        - generic [ref=f2e893]: 30-Day Risk Free
+        - generic [ref=f2e894]: Hassle-free return policy
+      - generic [ref=f2e899]:
+        - generic [ref=f2e900]: 24/7 Tech Support
+        - generic [ref=f2e901]: Dedicated engineering assistance
+    - generic [ref=f2e902]:
+      - generic [ref=f2e903]:
+        - link "NEXUS.TECH" [ref=f2e904] [cursor=pointer]:
+          - /url: /
+        - paragraph [ref=f2e910]: NEXUS TECH is a premier flagship consumer electronics destination built for enthusiasts who demand zero compromises in sound, performance, and quantum design.
+        - generic [ref=f2e911]:
+          - link "Twitter" [ref=f2e912] [cursor=pointer]:
+            - /url: "#"
+          - link "Instagram" [ref=f2e915] [cursor=pointer]:
+            - /url: "#"
+          - link "YouTube" [ref=f2e919] [cursor=pointer]:
+            - /url: "#"
+          - link "GitHub" [ref=f2e923] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f2e927]:
+        - heading "Categories" [level=4] [ref=f2e928]
+        - list [ref=f2e929]:
+          - listitem [ref=f2e930]:
+            - link "Headphones & Spatial Audio" [ref=f2e931] [cursor=pointer]:
+              - /url: /shop?category=Headphones
+          - listitem [ref=f2e932]:
+            - link "Flagship Smartphones" [ref=f2e933] [cursor=pointer]:
+              - /url: /shop?category=Smartphones
+          - listitem [ref=f2e934]:
+            - link "Smartwatches & Wearables" [ref=f2e935] [cursor=pointer]:
+              - /url: /shop?category=Smartwatches
+          - listitem [ref=f2e936]:
+            - link "Cyber Laptops" [ref=f2e937] [cursor=pointer]:
+              - /url: /shop?category=Laptops
+          - listitem [ref=f2e938]:
+            - link "Smart Home & Hubs" [ref=f2e939] [cursor=pointer]:
+              - /url: /shop?category=Smart Home
+          - listitem [ref=f2e940]:
+            - link "Cinema Cameras" [ref=f2e941] [cursor=pointer]:
+              - /url: /shop?category=Cameras
+      - generic [ref=f2e942]:
+        - heading "Navigation & Info" [level=4] [ref=f2e943]
+        - list [ref=f2e944]:
+          - listitem [ref=f2e945]:
+            - link "Store Catalog" [ref=f2e946] [cursor=pointer]:
+              - /url: /shop
+          - listitem [ref=f2e947]:
+            - link "Shopping Cart" [ref=f2e948] [cursor=pointer]:
+              - /url: /cart
+          - listitem [ref=f2e949]:
+            - link "About Engineering" [ref=f2e950] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f2e951]:
+            - link "Contact Support" [ref=f2e952] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=f2e953]:
+            - link "Privacy Policy" [ref=f2e954] [cursor=pointer]:
+              - /url: /privacy-policy
+          - listitem [ref=f2e955]:
+            - link "Affiliate Disclosure" [ref=f2e956] [cursor=pointer]:
+              - /url: /affiliate-disclosure
+      - generic [ref=f2e957]:
+        - heading "Amazon Associate" [level=4] [ref=f2e958]
+        - paragraph [ref=f2e959]: As an Amazon Associate, I earn from qualifying purchases. Product prices and availability are accurate as of the date/time indicated and are subject to change.
+        - link "Read Full Disclosure Statement →" [ref=f2e960] [cursor=pointer]:
+          - /url: /affiliate-disclosure
+    - generic [ref=f2e961]:
+      - generic [ref=f2e962]: © 2026 NEXUS TECH Inc. All rights reserved. Designed with quantum aesthetics.
+      - generic [ref=f2e963]:
+        - link "Privacy" [ref=f2e964] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Affiliate Terms" [ref=f2e965] [cursor=pointer]:
+          - /url: /affiliate-disclosure
+        - link "Support" [ref=f2e966] [cursor=pointer]:
+          - /url: /contact
+  - alert [ref=f2e986]
